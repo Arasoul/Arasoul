@@ -1,17 +1,30 @@
 # Hi there, I'm Ahmed Abdelrasoul 👋  
 
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=Arasoul&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+    </td>
+    <td>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=F75C7E&amp;width=350&amp;lines=Data+Scientist;Computer+Vision+Enthusiast;AI+%26+Networking+Explorer;Creative+Problem+Solver" alt="Typing"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 🚀 **Data Scientist | Computer Vision Enthusiast | AI & Networking Explorer**  
 
 I’m passionate about building intelligent systems that merge **AI, networking, and computer vision** into real-world solutions.  
-Currently focused on **packet analysis with ML**, **face recognition systems**, and **interactive visualization tools**.  
+Focused on **packet analysis with ML**, **face recognition systems**, and **interactive visualization tools**.  
 
 ---
 
 ## 🔥 What I Do
-- 🧠 Machine Learning & Deep Learning (Transformers, CNNs, NLP, Vision)
-- 🌐 Networking & Packet Analysis with AI-driven insights
-- 🎮 Creative coding (games, simulations, fun CS projects)
-- 🛠️ Python, C++, C#, TensorFlow, PyTorch, Scapy, Tkinter, Streamlit
+- 🧠 Machine Learning & Deep Learning (Transformers, CNNs, NLP, Vision)  
+- 🌐 Networking & Packet Analysis with AI-driven insights  
+- 🎮 Creative coding (games, simulations, fun CS projects)  
+- 🛠️ Python, C++, C#, TensorFlow, PyTorch, Scapy, Tkinter, Streamlit  
 
 ---
 
