@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=F75C7E&amp;width=350&amp;lines=Data+Scientist;Computer+Vision+Enthusiast;AI+%26+Networking+Explorer;Creative+Problem+Solver" alt="Typing"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=F75C7E&amp;width=330&amp;lines=Data+Scientist;Computer+Vision+Enthusiast;AI+%26+Networking+Explorer;Creative+Problem+Solver" alt="Typing"/>
       </a>
     </td>
   </tr>
