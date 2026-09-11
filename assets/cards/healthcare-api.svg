@@ -1,23 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 170" width="260" height="170">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 170" width="260" height="170" role="img" aria-labelledby="tit5">
+  <title id="tit5">Healthcare ML API</title>
   <rect width="260" height="170" rx="12" fill="#1e293b"/>
-  <rect x="14" y="14" width="232" height="142" rx="8" fill="none" stroke="#f43f5e" stroke-width="0.6" opacity="0.2"/>
-  <!-- API bracket + heartbeat doodle -->
-  <g transform="translate(24, 30)" fill="none" stroke="#f43f5e" stroke-width="1.2" opacity="0.5">
-    <path d="M5,0 L0,0 L0,55 L5,55"/>
-    <path d="M45,0 L50,0 L50,55 L45,55"/>
-    <text x="16" y="20" font-family="monospace" font-size="12" fill="#f43f5e" stroke="none" opacity="0.6">API</text>
-    <!-- heartbeat line -->
-    <polyline points="8,38 14,38 18,28 22,48 26,34 30,42 34,38 42,38" stroke-width="1" opacity="0.4"/>
+  <rect x="14" y="14" width="232" height="142" rx="8" fill="none" stroke="#f43f5e" stroke-width="1" opacity="0.25"/>
+  <g fill="none" stroke="#f43f5e">
+    <path d="M62 28 L50 28 L50 88 L62 88" stroke-width="1.6" opacity="0.85"/>
+    <path d="M138 28 L150 28 L150 88 L138 88" stroke-width="1.6" opacity="0.85"/>
+    <text x="100" y="60" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#f43f5e" stroke="none" opacity="0.95">API</text>
+    <polyline points="62 76 74 76 82 68 90 84 98 70 106 80 112 76 138 76" stroke-width="1.5" opacity="0.6"/>
   </g>
-  <!-- ML model box -->
-  <g transform="translate(110, 32)" fill="none" stroke="#f43f5e" stroke-width="0.8" opacity="0.3">
-    <rect x="0" y="0" width="50" height="50" rx="6"/>
-    <circle cx="25" cy="25" r="12"/>
-    <text x="13" y="28" font-family="monospace" font-size="8" fill="#f43f5e" stroke="none" opacity="0.5">ML</text>
-    <path d="M50,25 L70,25" stroke-dasharray="3,2"/>
-    <path d="M66,22 L72,25 L66,28" fill="#f43f5e" stroke="none" opacity="0.4"/>
-  </g>
-  <text x="24" y="120" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" font-weight="700" fill="#f43f5e">Healthcare API</text>
-  <text x="24" y="136" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="8.5" fill="#94a3b8">FastAPI · Docker · Kubernetes</text>
-  <text x="24" y="148" font-family="monospace" font-size="7.5" fill="#475569">ML predictions · health checks</text>
+  <text x="130" y="152" text-anchor="middle" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="18" font-weight="700" fill="#f43f5e">Healthcare ML API</text>
 </svg>

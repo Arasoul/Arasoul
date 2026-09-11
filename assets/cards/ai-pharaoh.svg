@@ -1,20 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 170" width="260" height="170">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 170" width="260" height="170" role="img" aria-labelledby="tit1">
+  <title id="tit1">AI Pharaoh</title>
   <rect width="260" height="170" rx="12" fill="#1e293b"/>
-  <rect x="14" y="14" width="232" height="142" rx="8" fill="none" stroke="#f59e0b" stroke-width="0.6" opacity="0.2"/>
-  <!-- glyph box doodle -->
-  <g transform="translate(40, 30)">
-    <rect x="0" y="0" width="60" height="70" rx="6" fill="none" stroke="#f59e0b" stroke-width="1.2" opacity="0.5"/>
-    <path d="M15,20 Q30,10 45,20" stroke="#f59e0b" stroke-width="1" fill="none" opacity="0.6"/>
-    <circle cx="30" cy="40" r="8" fill="none" stroke="#f59e0b" stroke-width="0.8" opacity="0.4"/>
-    <path d="M26,36 L30,32 L34,36 L30,44 Z" fill="#f59e0b" opacity="0.5"/>
+  <rect x="14" y="14" width="232" height="142" rx="8" fill="none" stroke="#f59e0b" stroke-width="1" opacity="0.25"/>
+  <g fill="none" stroke="#f59e0b">
+    <rect x="70" y="16" width="120" height="112" rx="10" stroke-width="1.4" opacity="0.9"/>
+    <path d="M82 30 H178" stroke-width="1" opacity="0.5"/>
+    <g stroke-width="1.6" opacity="0.95">
+      <path d="M86 66 Q110 42 134 66 Q110 76 86 66 Z"/>
+      <path d="M86 58 Q110 40 134 58" stroke-width="1" opacity="0.5"/>
+    </g>
+    <circle cx="104" cy="64" r="9" fill="#f59e0b" opacity="0.35" stroke="none"/>
+    <path d="M104 58 L109 64 L104 70 L99 64 Z" fill="#f59e0b" stroke="none" opacity="0.6"/>
+    <path d="M140 56 V76" stroke-width="1.4" opacity="0.6"/>
+    <circle cx="147" cy="66" r="4" fill="#f59e0b" opacity="0.5" stroke="none"/>
+    <path d="M82 114 H178" stroke-width="1" opacity="0.5"/>
+    <g stroke-width="1.2" opacity="0.7">
+      <path d="M86 92 Q92 86 98 92 T110 92"/>
+      <path d="M118 92 Q124 86 130 92"/>
+      <circle cx="140" cy="92" r="4" fill="#f59e0b" opacity="0.5" stroke="none"/>
+      <path d="M148 96 L156 88"/>
+    </g>
   </g>
-  <!-- eye icon -->
-  <g transform="translate(130, 32)" fill="none" stroke="#f59e0b" stroke-width="1" opacity="0.4">
-    <ellipse cx="30" cy="16" rx="22" ry="14"/>
-    <circle cx="30" cy="16" r="6" fill="#f59e0b" opacity="0.3"/>
-  </g>
-  <!-- text -->
-  <text x="140" y="120" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" font-weight="700" fill="#f59e0b">AI Pharaoh</text>
-  <text x="140" y="136" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="8.5" fill="#94a3b8">CV · NLP · Ancient Scripts</text>
-  <text x="140" y="148" font-family="monospace" font-size="7.5" fill="#475569">89.4% e2e accuracy</text>
+  <text x="130" y="152" text-anchor="middle" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="18" font-weight="700" fill="#f59e0b">AI Pharaoh</text>
 </svg>

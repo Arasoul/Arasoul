@@ -43,44 +43,42 @@ The stuff I keep coming back to:
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/AI-Pharaoh"><img src="assets/cards/ai-pharaoh.svg" alt="AI Pharaoh — computer vision and NLP for ancient scripts" width="240"/></a><br/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/AI-Pharaoh"><img src="assets/cards/ai-pharaoh.svg" alt="AI Pharaoh — computer vision and NLP for ancient scripts" width="100%"/></a><br/>
       <b><a href="https://github.com/Arasoul/AI-Pharaoh">AI Pharaoh</a></b><br/>
-      <sub>Actually teaching a machine to read hieroglyphs.</sub>
+      <sub>Actually teaching a machine<br/>to read hieroglyphs.</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/meridian-wings-platform"><img src="assets/cards/meridian.svg" alt="Meridian Wings — MILP optimization for fleet planning" width="240"/></a><br/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/meridian-wings-platform"><img src="assets/cards/meridian.svg" alt="Meridian Wings — MILP optimization for fleet planning" width="100%"/></a><br/>
       <b><a href="https://github.com/Arasoul/meridian-wings-platform">Meridian Wings</a></b><br/>
-      <sub>Optimizing a whole network when the future is unsure.</sub>
+      <sub>Optimizing a network<br/>when the future is uncertain.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/AutoEDA"><img src="assets/cards/autoeda.svg" alt="AutoEDA — automated exploratory data analysis" width="240"/></a><br/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/AutoEDA"><img src="assets/cards/autoeda.svg" alt="AutoEDA — automated exploratory data analysis" width="100%"/></a><br/>
       <b><a href="https://github.com/Arasoul/AutoEDA">AutoEDA</a></b><br/>
-      <sub>Give it a dataframe — it asks the annoying questions first.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/DataPrepToolkit"><img src="assets/cards/dataprep.svg" alt="DataPrepToolkit — data preprocessing, validation and profiling" width="240"/></a><br/>
-      <b><a href="https://github.com/Arasoul/DataPrepToolkit">DataPrepToolkit</a></b><br/>
-      <sub>Messy data in. Usable data out. No notebooks required.</sub>
+      <sub>Give it a dataframe.<br/>It asks the annoying questions first.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/healthcare-ml-api"><img src="assets/cards/healthcare-api.svg" alt="Healthcare ML API — FastAPI predictions for patient no-show and wait times" width="240"/></a><br/>
-      <b><a href="https://github.com/Arasoul/healthcare-ml-api">Healthcare ML API</a></b><br/>
-      <sub>Models wrapped in an API that actually deploys.</sub>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/DataPrepToolkit"><img src="assets/cards/dataprep.svg" alt="DataPrepToolkit — data preprocessing, validation and profiling" width="100%"/></a><br/>
+      <b><a href="https://github.com/Arasoul/DataPrepToolkit">DataPrepToolkit</a></b><br/>
+      <sub>Messy data in.<br/>Usable data out.</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Arasoul/movie-recommendation-vector-search"><img src="assets/cards/movie-search.svg" alt="Movie Search — semantic movie recommendations with vector embeddings" width="240"/></a><br/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/healthcare-ml-api"><img src="assets/cards/healthcare-api.svg" alt="Healthcare ML API — FastAPI predictions for patient no-show and wait times" width="100%"/></a><br/>
+      <b><a href="https://github.com/Arasoul/healthcare-ml-api">Healthcare ML API</a></b><br/>
+      <sub>Models wrapped in an API<br/>that actually deploys.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Arasoul/movie-recommendation-vector-search"><img src="assets/cards/movie-search.svg" alt="Movie Search — semantic movie recommendations with vector embeddings" width="100%"/></a><br/>
       <b><a href="https://github.com/Arasoul/movie-recommendation-vector-search">Movie Search</a></b><br/>
-      <sub>Semantic search over movies — no keywords, just meaning.</sub>
+      <sub>Semantic movie search.<br/>Meaning instead of keywords.</sub>
     </td>
   </tr>
 </table>
 
-> 🗒️ One you won't find as code here: **AutoBI**. It's more of a story than a repo right now — see the [case study →](https://ahmed-abdelrasoul-portfolio.vercel.app/projects/auto-bi)
+> 🗒️ **AutoBI lives on the portfolio rather than the public repo shelf.** It's one of my main data-intelligence projects — explore the full [case study →](https://ahmed-abdelrasoul-portfolio.vercel.app/projects/auto-bi)
 
 ---
 
