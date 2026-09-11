@@ -1,63 +1,108 @@
-# Hi there, I'm Ahmed Abdelrasoul 👋  
-
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=Arasoul&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-    </td>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=F75C7E&amp;width=330&amp;lines=Data+Scientist;Computer+Vision+Enthusiast;AI+%26+Networking+Explorer;Creative+Problem+Solver" alt="Typing"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-🚀 **Data Scientist | Computer Vision Enthusiast | AI & Networking Explorer**  
-
-I’m passionate about building intelligent systems that merge **AI, networking, and computer vision** into real-world solutions.  
-Focused on **packet analysis with ML**, **face recognition systems**, and **interactive visualization tools**.  
-
----
-
-## 🔥 What I Do
-- 🧠 Machine Learning & Deep Learning (Transformers, CNNs, NLP, Vision)  
-- 🌐 Networking & Packet Analysis with AI-driven insights  
-- 🎮 Creative coding (games, simulations, fun CS projects)  
-- 🛠️ Python, C++, C#, TensorFlow, PyTorch, Scapy, Tkinter, Streamlit  
-
----
-
-## 🌟 Featured Projects  
-🔹 [**Face Recognition Streamlit**](https://github.com/Arasoul/face-recognition-streamlit) – Real-time neural face recognition with cyberpunk-style UI  
-🔹 [**Network Packet Analyzer**](https://github.com/Arasoul/Network-Packet-Analyzer) – ML-based sniffer with GUI, intrusion alerts & visualizations  
-🔹 [**Web Scraping Toolkit**](https://github.com/Arasoul/Web-Scraping-Toolkit) – Flexible scraper with visualization support  
-🔹 [**Console Platformer Quest**](https://github.com/Arasoul/Console-Platformer-Quest) – Retro ASCII platformer with levels, enemies, and coins  
-
-👉 *Check out my pinned repos for more!*
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arasoul&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arasoul&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="Top Languages" height="165"/>
+  <img src="assets/profile-header.svg" alt="Ahmed Abdelrasoul — AI & Data Engineer" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://arasoul.dev">Portfolio</a> · <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-3271a917b">LinkedIn</a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,html,css,mysql,sklearn" />
-</p>
+Building intelligent, validated systems that move from raw data to useful decisions.
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-3271a917b"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Arasoul"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"></a>
-</p>
+## Currently
+
+- Teaching Assistant — Data Intelligence, Python, AI Automation
+- AI Agents, n8n, workflow engineering, API integration
 
 ---
-✨ *“Building bridges between AI and real-world systems — one project at a time.”*  
+
+## Featured Engineering Systems
+
+### AutoBI — Data Intelligence
+
+Raw tabular data → semantic column understanding → safe KPI/measure selection → visualization → dashboard. Not every numeric column is a meaningful measure — AutoBI enforces that distinction.
+
+`Semantic Data` · `KPI Safety` · `Visualization`
+
+[Case Study →](https://arasoul.dev/projects/auto-bi)
+
+---
+
+### AI Pharaoh — Computer Vision & NLP
+
+End-to-end pipeline for Ancient Egyptian cultural heritage: glyph detection (YOLOv8), segmentation (SAM), hierarchical classification (1,080 Gardiner codes), transliteration, and NLP translation. Includes monument recognition and AR experiences.
+
+`Detection` · `Classification` · `NLP` · `AR`
+
+**89.44% end-to-end accuracy** · MIT License · [Repository →](https://github.com/Arasoul/AI-Pharaoh)
+
+---
+
+### Meridian Wings — Optimization & Decision Systems
+
+MILP-based fleet planning platform for next-season network optimization under uncertainty. 132 routes, 2,000 simulated seasons, validated decision engine.
+
+`Optimization` · `Forecasting` · `Simulation` · `Decision Intelligence`
+
+**+$2.46M improvement over naive allocation** · [Repository →](https://github.com/Arasoul/meridian-wings-platform)
+
+---
+
+## Data Intelligence Ecosystem
+
+```
+Raw Data
+  ↓
+DataPrepToolkit     → profiling, cleaning, validation
+  ↓
+AutoEDA             → statistics, visualization, insights
+  ↓
+AutoBI              → dashboards, KPI safety, BI export
+```
+
+Each component produces contracts consumed by the next. Only validated data reaches decisions.
+
+| Component | Purpose | Repository |
+|-----------|---------|------------|
+| [DataPrepToolkit](https://github.com/Arasoul/DataPrepToolkit) | Preprocessing, validation, quality reporting | MIT · v1.1.0 |
+| [AutoEDA](https://github.com/Arasoul/AutoEDA) | EDA, statistics, visualization, reports | MIT · v1.0.0 |
+| [AutoBI](https://arasoul.dev/projects/auto-bi) | Dashboards, BI export | Case study |
+
+---
+
+## Engineering Practice
+
+Typed · Tested · Validated · Documented · Reproducible · Contract-driven
+
+DataPrepToolkit: **171 tests** · AutoEDA: **265 tests**
+
+---
+
+## Core Technologies
+
+**Languages** — Python · TypeScript · C++ · C#
+**AI/ML** — PyTorch · TensorFlow · YOLOv8 · scikit-learn · SAM
+**Data** — Pandas · NumPy · SQL · SciPy · Streamlit
+**Engineering** — FastAPI · Docker · n8n · Git · GitHub Actions · React
+
+---
+
+## Selected Engineering Work
+
+| Repository | What it does | Stack |
+|------------|-------------|-------|
+| [healthcare-ml-api](https://github.com/Arasoul/healthcare-ml-api) | ML API for healthcare predictions | FastAPI · Docker · Kubernetes |
+| [movie-recommendation-vector-search](https://github.com/Arasoul/movie-recommendation-vector-search) | Vector embeddings + semantic search | MongoDB · Qdrant · Next.js |
+| [face-recognition-streamlit](https://github.com/Arasoul/face-recognition-streamlit) | Real-time neural face recognition | OpenCV · Streamlit · ML |
+| [Web-Scraping-Toolkit](https://github.com/Arasoul/Web-Scraping-Toolkit) | Configurable scraper + visualization | Python · Selenium · Jupyter |
+
+---
+
+## Connect
+
+- **Portfolio** — [arasoul.dev](https://arasoul.dev)
+- **LinkedIn** — [ahmed-abdelrasoul-3271a917b](https://www.linkedin.com/in/ahmed-abdelrasoul-3271a917b)
+- **Email** — [Verify from portfolio](https://arasoul.dev)
