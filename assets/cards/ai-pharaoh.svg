@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 170" width="260" height="170">
+  <rect width="260" height="170" rx="12" fill="#1e293b"/>
+  <rect x="14" y="14" width="232" height="142" rx="8" fill="none" stroke="#f59e0b" stroke-width="0.6" opacity="0.2"/>
+  <!-- glyph box doodle -->
+  <g transform="translate(40, 30)">
+    <rect x="0" y="0" width="60" height="70" rx="6" fill="none" stroke="#f59e0b" stroke-width="1.2" opacity="0.5"/>
+    <path d="M15,20 Q30,10 45,20" stroke="#f59e0b" stroke-width="1" fill="none" opacity="0.6"/>
+    <circle cx="30" cy="40" r="8" fill="none" stroke="#f59e0b" stroke-width="0.8" opacity="0.4"/>
+    <path d="M26,36 L30,32 L34,36 L30,44 Z" fill="#f59e0b" opacity="0.5"/>
+  </g>
+  <!-- eye icon -->
+  <g transform="translate(130, 32)" fill="none" stroke="#f59e0b" stroke-width="1" opacity="0.4">
+    <ellipse cx="30" cy="16" rx="22" ry="14"/>
+    <circle cx="30" cy="16" r="6" fill="#f59e0b" opacity="0.3"/>
+  </g>
+  <!-- text -->
+  <text x="140" y="120" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" font-weight="700" fill="#f59e0b">AI Pharaoh</text>
+  <text x="140" y="136" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="8.5" fill="#94a3b8">CV · NLP · Ancient Scripts</text>
+  <text x="140" y="148" font-family="monospace" font-size="7.5" fill="#475569">89.4% e2e accuracy</text>
+</svg>

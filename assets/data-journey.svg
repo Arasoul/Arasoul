@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 130" width="700" height="130">
+  <rect width="700" height="130" rx="10" fill="#1e293b"/>
+  <g font-family="'SF Mono','Cascadia Code',Consolas,monospace" fill="none">
+    <!-- messy.csv -->
+    <g transform="translate(20, 22)">
+      <rect x="0" y="0" width="65" height="80" rx="6" fill="#0f172a" stroke="#475569" stroke-width="0.7"/>
+      <text x="8" y="18" font-size="9" fill="#94a3b8" stroke="none">messy.csv</text>
+      <g fill="#475569" opacity="0.4">
+        <rect x="8" y="28" width="16" height="4" rx="1"/>
+        <rect x="26" y="28" width="18" height="4" rx="1"/>
+        <rect x="8" y="38" width="10" height="4" rx="1"/>
+        <rect x="8" y="48" width="20" height="4" rx="1"/>
+        <rect x="8" y="58" width="14" height="4" rx="1"/>
+      </g>
+    </g>
+    <!-- arrow 1 -->
+    <g stroke="#475569" stroke-width="0.8" opacity="0.6">
+      <line x1="90" y1="62" x2="115" y2="62"/>
+      <path d="M112,59 L118,62 L112,65" fill="#475569" stroke="none" opacity="0.6"/>
+    </g>
+    <!-- DataPrep -->
+    <g transform="translate(122, 32)">
+      <rect x="0" y="0" width="90" height="60" rx="6" fill="#0f172a" stroke="#3b82f6" stroke-width="0.8"/>
+      <text x="8" y="20" font-size="9" font-weight="700" fill="#3b82f6" stroke="none">DataPrep</text>
+      <text x="8" y="34" font-size="7" fill="#64748b" stroke="none">prep · validate</text>
+      <g fill="#3b82f6" opacity="0.15"><circle cx="75" cy="15" r="6"/></g>
+    </g>
+    <!-- arrow 2 -->
+    <g stroke="#475569" stroke-width="0.8" opacity="0.6">
+      <line x1="218" y1="62" x2="243" y2="62"/>
+      <path d="M240,59 L246,62 L240,65" fill="#475569" stroke="none" opacity="0.6"/>
+    </g>
+    <!-- AutoEDA -->
+    <g transform="translate(250, 32)">
+      <rect x="0" y="0" width="90" height="60" rx="6" fill="#0f172a" stroke="#14b8a6" stroke-width="0.8"/>
+      <text x="8" y="20" font-size="9" font-weight="700" fill="#14b8a6" stroke="none">AutoEDA</text>
+      <text x="8" y="34" font-size="7" fill="#64748b" stroke="none">explore · visualize</text>
+      <g fill="#14b8a6" opacity="0.15"><circle cx="75" cy="15" r="6"/></g>
+    </g>
+    <!-- arrow 3 -->
+    <g stroke="#475569" stroke-width="0.8" opacity="0.6">
+      <line x1="346" y1="62" x2="371" y2="62"/>
+      <path d="M368,59 L374,62 L368,65" fill="#475569" stroke="none" opacity="0.6"/>
+    </g>
+    <!-- AutoAnalytics -->
+    <g transform="translate(378, 32)">
+      <rect x="0" y="0" width="105" height="60" rx="6" fill="#0f172a" stroke="#f59e0b" stroke-width="0.8"/>
+      <text x="8" y="20" font-size="9" font-weight="700" fill="#f59e0b" stroke="none">AutoAnalytics</text>
+      <text x="8" y="34" font-size="7" fill="#64748b" stroke="none">discover · validate</text>
+      <g fill="#f59e0b" opacity="0.15"><circle cx="88" cy="15" r="6"/></g>
+    </g>
+    <!-- arrow 4 -->
+    <g stroke="#475569" stroke-width="0.8" opacity="0.6">
+      <line x1="490" y1="62" x2="515" y2="62"/>
+      <path d="M512,59 L518,62 L512,65" fill="#475569" stroke="none" opacity="0.6"/>
+    </g>
+    <!-- AutoBI -->
+    <g transform="translate(522, 32)">
+      <rect x="0" y="0" width="90" height="60" rx="6" fill="#0f172a" stroke="#f43f5e" stroke-width="0.8"/>
+      <text x="8" y="20" font-size="9" font-weight="700" fill="#f43f5e" stroke="none">AutoBI</text>
+      <text x="8" y="34" font-size="7" fill="#64748b" stroke="none">dashboards · KPIs</text>
+      <g fill="#f43f5e" opacity="0.15"><circle cx="75" cy="15" r="6"/></g>
+    </g>
+    <!-- label -->
+    <text x="20" y="118" font-size="8.5" fill="#64748b" stroke="none" font-style="italic">each tool answers the question the previous one left behind →</text>
+  </g>
+</svg>

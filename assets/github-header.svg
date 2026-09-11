@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="960" height="180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="180" rx="10" fill="url(#bg)"/>
+  <!-- dot grid -->
+  <g fill="#334155" opacity="0.4">
+    <circle cx="30" cy="30" r="1"/><circle cx="30" cy="50" r="1"/><circle cx="30" cy="70" r="1"/>
+    <circle cx="50" cy="30" r="1"/><circle cx="50" cy="50" r="1"/><circle cx="50" cy="70" r="1"/>
+    <circle cx="70" cy="30" r="1"/><circle cx="70" cy="50" r="1"/><circle cx="70" cy="70" r="1"/>
+  </g>
+  <!-- small chart doodle -->
+  <g transform="translate(750, 25)" fill="none" stroke="#f59e0b" stroke-width="1.5" opacity="0.45">
+    <polyline points="0,60 12,45 24,52 36,30 48,35 60,15 72,22 84,8" stroke-linejoin="round"/>
+  </g>
+  <!-- bracket doodle -->
+  <g transform="translate(870, 50)" stroke="#58a6ff" stroke-width="1.2" fill="none" opacity="0.3">
+    <path d="M0,0 L-8,0 L-8,60 L0,60 M0,0 L8,0 L8,60 L0,60"/>
+  </g>
+  <!-- tiny coffee steam -->
+  <g transform="translate(900, 110)" fill="none" stroke="#94a3b8" stroke-width="1" opacity="0.25">
+    <path d="M0,20 Q4,12 0,4"/>
+    <path d="M10,22 Q14,14 10,6"/>
+  </g>
+  <g transform="translate(48, 44)">
+    <text font-family="'Segoe Script','Comic Sans MS',cursive,sans-serif" font-size="18" fill="#f59e0b" font-style="italic" opacity="0.9">ahmed's</text>
+    <text y="36" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="32" font-weight="700" fill="#f1f5f9" letter-spacing="2">BUILDING NOTEBOOK</text>
+    <text y="62" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="11" fill="#94a3b8" letter-spacing="1.5">data → understanding → intelligence → shipped systems</text>
+  </g>
+  <!-- small doodle: arrow + box -->
+  <g transform="translate(48, 120)" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3,3" opacity="0.5">
+    <line x1="0" y1="0" x2="100" y2="0"/>
+    <rect x="108" y="-10" width="60" height="20" rx="3"/>
+    <text x="113" y="5" font-family="monospace" font-size="9" fill="#64748b" stroke="none">ship it</text>
+    <path d="M98,0 L106,-3 L106,3 Z" fill="#475569" stroke="none"/>
+  </g>
+</svg>

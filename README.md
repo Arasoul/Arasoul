@@ -1,108 +1,135 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Ahmed Abdelrasoul — AI & Data Engineer" width="100%"/>
+  <img src="assets/github-header.svg" alt="Ahmed's Building Notebook — data to understanding to shipped systems" width="100%"/>
 </p>
+
+## Hey, I'm Ahmed 👋
+
+AI & Data Engineer from Cairo.
+
+I like taking work that feels annoyingly repetitive and turning it into a system that just runs — so humans can spend time on the parts a computer can't do yet.
+
+<p>
+  <a href="https://ahmed-abdelrasoul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%231e293b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-ai/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahmedmrasoul@gmail.com"><img src="https://img.shields.io/badge/Email-hi-%23f59e0b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+<div align="center">
+
+## On my desk right now
+
+🟨 teaching CS
+🟦 wiring up AI automation workflows
+🟩 exploring data-intelligence tooling
+🟪 turning experiments into products
+
+</div>
+
+---
+
+## Things I've built
+
+The stuff I keep coming back to:
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/AI-Pharaoh"><img src="assets/cards/ai-pharaoh.svg" alt="AI Pharaoh — computer vision and NLP for ancient scripts" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/AI-Pharaoh">AI Pharaoh</a></b><br/>
+      <sub>Actually teaching a machine to read hieroglyphs.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/meridian-wings-platform"><img src="assets/cards/meridian.svg" alt="Meridian Wings — MILP optimization for fleet planning" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/meridian-wings-platform">Meridian Wings</a></b><br/>
+      <sub>Optimizing a whole network when the future is unsure.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/AutoEDA"><img src="assets/cards/autoeda.svg" alt="AutoEDA — automated exploratory data analysis" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/AutoEDA">AutoEDA</a></b><br/>
+      <sub>Give it a dataframe — it asks the annoying questions first.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/DataPrepToolkit"><img src="assets/cards/dataprep.svg" alt="DataPrepToolkit — data preprocessing, validation and profiling" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/DataPrepToolkit">DataPrepToolkit</a></b><br/>
+      <sub>Messy data in. Usable data out. No notebooks required.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/healthcare-ml-api"><img src="assets/cards/healthcare-api.svg" alt="Healthcare ML API — FastAPI predictions for patient no-show and wait times" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/healthcare-ml-api">Healthcare ML API</a></b><br/>
+      <sub>Models wrapped in an API that actually deploys.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Arasoul/movie-recommendation-vector-search"><img src="assets/cards/movie-search.svg" alt="Movie Search — semantic movie recommendations with vector embeddings" width="240"/></a><br/>
+      <b><a href="https://github.com/Arasoul/movie-recommendation-vector-search">Movie Search</a></b><br/>
+      <sub>Semantic search over movies — no keywords, just meaning.</sub>
+    </td>
+  </tr>
+</table>
+
+> 🗒️ One you won't find as code here: **AutoBI**. It's more of a story than a repo right now — see the [case study →](https://ahmed-abdelrasoul-portfolio.vercel.app/projects/auto-bi)
+
+---
+
+## The data experiment
+
+I got tired of rewriting the same data workflow for every project. So I started building the pieces I kept redoing:
 
 <p align="center">
-  <a href="https://arasoul.dev">Portfolio</a> · <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-ai">LinkedIn</a>
+  <img src="assets/data-journey.svg" alt="Data journey sketch: messy.csv through DataPrep, AutoEDA, AutoAnalytics to AutoBI" width="100%"/>
 </p>
 
----
+*Each tool came from the question the previous one left unanswered.*
 
-Building intelligent, validated systems that move from raw data to useful decisions.
-
----
-
-## Currently
-
-- Teaching Assistant — Egyptian Chinese University
-- AI Agents · n8n workflows · API integration · AI Automation
+- [DataPrepToolkit](https://github.com/Arasoul/DataPrepToolkit) — prep, validate, profile (171 tests, MIT)
+- [AutoEDA](https://github.com/Arasoul/AutoEDA) — explore, visualize, report (265 tests, MIT)
+- [AutoBI](https://ahmed-abdelrasoul-portfolio.vercel.app/projects/auto-bi) — dashboards that survive contact with real data
 
 ---
 
-## Featured Engineering Systems
+## Side quests
 
-### AutoBI — Data Intelligence
+Not everything needs to become a product. Sometimes I build something just because the problem looks fun.
 
-Raw tabular data → semantic column understanding → safe KPI/measure selection → visualization → dashboard. Not every numeric column is a meaningful measure — AutoBI enforces that distinction.
-
-`Semantic Data` · `KPI Safety` · `Visualization`
-
-[Case Study →](https://arasoul.dev/projects/auto-bi)
-
----
-
-### AI Pharaoh — Computer Vision & NLP
-
-End-to-end pipeline for Ancient Egyptian cultural heritage: glyph detection (YOLOv8), segmentation (SAM), hierarchical classification (1,080 Gardiner codes), transliteration, and NLP translation. Includes monument recognition and AR experiences.
-
-`Detection` · `Classification` · `NLP` · `AR`
-
-**89.44% end-to-end accuracy** · MIT License · [Repository →](https://github.com/Arasoul/AI-Pharaoh)
+- 🎯 trained a face recognizer that runs live — [face-recognition-streamlit](https://github.com/Arasoul/face-recognition-streamlit)
+- 📡 sniffed network packets and turned them into ML features — [Network-Packet-Analyzer](https://github.com/Arasoul/Network-Packet-Analyzer)
+- 🔐 broke my own encrypted connection to understand MITM — [secure-network-communication](https://github.com/Arasoul/secure-network-communication)
+- 🎮 built an ASCII platformer because... why not — [Console-Platformer-Quest](https://github.com/Arasoul/Console-Platformer-Quest)
 
 ---
 
-### Meridian Wings — Optimization & Decision Systems
+## Tools I keep reaching for
 
-MILP-based fleet planning platform for next-season network optimization under uncertainty. 114 routes, 1,150 departures, 2,000 simulated seasons, validated decision engine.
-
-`Optimization` · `Forecasting` · `Simulation` · `Decision Intelligence`
-
-**+$2.46M improvement over naive allocation** · [Repository →](https://github.com/Arasoul/meridian-wings-platform)
-
----
-
-## Data Intelligence Ecosystem
-
-```
-Raw Data
-  ↓
-DataPrepToolkit     → profiling, cleaning, validation
-  ↓
-AutoEDA             → statistics, visualization, insights
-  ↓
-AutoBI              → dashboards, KPI safety, BI export
-```
-
-Each component produces contracts consumed by the next. Only validated data reaches decisions.
-
-| Component | Purpose | Repository |
-|-----------|---------|------------|
-| [DataPrepToolkit](https://github.com/Arasoul/DataPrepToolkit) | Preprocessing, validation, quality reporting | MIT · v1.1.0 |
-| [AutoEDA](https://github.com/Arasoul/AutoEDA) | EDA, statistics, visualization, reports | MIT · v1.0.0 |
-| [AutoBI](https://arasoul.dev/projects/auto-bi) | Dashboards, BI export | Case study |
+**Build** — Python · TypeScript
+**Think** — Pandas · NumPy · scikit-learn
+**Train** — PyTorch · TensorFlow
+**Ship** — FastAPI · Docker · GitHub Actions
+**Automate** — n8n · APIs · SQL · Power BI
 
 ---
 
-## Engineering Practice
+## On my whiteboard
 
-Typed · Tested · Validated · Documented · Reproducible · Contract-driven
+Things on my mind lately:
 
-DataPrepToolkit: **171 tests** · AutoEDA: **265 tests**
-
----
-
-## Core Technologies
-
-**Languages** — Python · TypeScript · C++ · C#
-**AI/ML** — PyTorch · TensorFlow · YOLOv8 · scikit-learn · SAM
-**Data** — Pandas · NumPy · SQL · SciPy · Streamlit
-**Engineering** — FastAPI · Docker · n8n · Git · GitHub Actions · React
+- → making AI agents actually useful in messy, real-world workflows
+- → automation that survives the ugly edge cases
+- → turning notebooks into products people can rely on
+- → going from a dataframe to a decision people trust
 
 ---
 
-## Selected Engineering Work
+<div align="center">
 
-| Repository | What it does | Stack |
-|------------|-------------|-------|
-| [healthcare-ml-api](https://github.com/Arasoul/healthcare-ml-api) | ML API for healthcare predictions | FastAPI · Docker · Kubernetes |
-| [movie-recommendation-vector-search](https://github.com/Arasoul/movie-recommendation-vector-search) | Vector embeddings + semantic search | MongoDB · Qdrant · Next.js |
-| [face-recognition-streamlit](https://github.com/Arasoul/face-recognition-streamlit) | Real-time neural face recognition | OpenCV · Streamlit · ML |
-| [Web-Scraping-Toolkit](https://github.com/Arasoul/Web-Scraping-Toolkit) | Configurable scraper + visualization | Python · Selenium · Jupyter |
+## Say hi
 
----
+If you're building something interesting, wrestling with messy data, or just want to talk AI systems — reach out.
 
-## Connect
+[**Portfolio**](https://ahmed-abdelrasoul-portfolio.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/ahmed-abdelrasoul-ai/) · [**Email**](mailto:ahmedmrasoul@gmail.com)
 
-- **Portfolio** — [arasoul.dev](https://arasoul.dev)
-- **LinkedIn** — [ahmed-abdelrasoul-ai](https://www.linkedin.com/in/ahmed-abdelrasoul-ai)
-- **Email** — ahmedmrasoul@gmail.com
+</div>
