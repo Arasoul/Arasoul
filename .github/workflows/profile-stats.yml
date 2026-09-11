@@ -1,0 +1,38 @@
+name: profile-stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "21 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate profile stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_profile_stats.py
+
+      - name: Commit regenerated SVG cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate profile stats"
+          file_pattern: assets/stats/*.svg
+          commit_user_name: Arasoul
+          commit_user_email: actions@github.com

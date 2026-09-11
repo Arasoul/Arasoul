@@ -109,27 +109,31 @@ I got tired of rewriting the same data workflow for every project. So I started 
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions,ts,react,postgres&amp;perline=7" alt="Engineering tools: FastAPI, Docker, Git, GitHub Actions, TypeScript, React, PostgreSQL"/>
 </p>
 
-<sub align="center">Build · Think · Train · Ship · Automate — n8n · APIs · SQL · Power BI</sub>
+<p align="center"><sub>Build · Think · Train · Ship · Automate — n8n · APIs · SQL · Power BI</sub></p>
 
 ---
 
-## GitHub at a glance
+## Code trails
 
-<em>Repo languages, not a skill ranking.</em>
+A small snapshot of what accumulates when I spend too much time inside repositories.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arasoul&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arasoul&amp;show_icons=true&amp;hide_border=true&amp;theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Arasoul&amp;show_icons=true&amp;hide_border=true&amp;theme=default" alt="GitHub stats for Arasoul"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/github-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/github-stats-light.svg">
+    <img src="./assets/stats/github-stats-light.svg" alt="Ahmed's GitHub activity statistics">
   </picture>
-  &nbsp;&nbsp;
+  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arasoul&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;hide=Jupyter%20Notebook&amp;langs_count=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arasoul&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;hide=Jupyter%20Notebook&amp;langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arasoul&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;hide=Jupyter%20Notebook&amp;langs_count=8" alt="Most used languages across repos"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/languages-light.svg">
+    <img src="./assets/stats/languages-light.svg" alt="Languages used across Ahmed's public repositories">
   </picture>
 </p>
+
+<em>Repo languages, not a skill ranking.</em>
+
+The cards live in this repo and refresh daily via a GitHub Action — no third-party stats service. Jupyter Notebook is excluded from the language chart.
 
 ---
 
