@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arasoul.dev">Portfolio</a> · <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-3271a917b">LinkedIn</a>
+  <a href="https://arasoul.dev">Portfolio</a> · <a href="https://www.linkedin.com/in/ahmed-abdelrasoul-ai">LinkedIn</a>
 </p>
 
 ---
@@ -14,8 +14,8 @@ Building intelligent, validated systems that move from raw data to useful decisi
 
 ## Currently
 
-- Teaching Assistant — Data Intelligence, Python, AI Automation
-- AI Agents, n8n, workflow engineering, API integration
+- Teaching Assistant — Egyptian Chinese University
+- AI Agents · n8n workflows · API integration · AI Automation
 
 ---
 
@@ -43,7 +43,7 @@ End-to-end pipeline for Ancient Egyptian cultural heritage: glyph detection (YOL
 
 ### Meridian Wings — Optimization & Decision Systems
 
-MILP-based fleet planning platform for next-season network optimization under uncertainty. 132 routes, 2,000 simulated seasons, validated decision engine.
+MILP-based fleet planning platform for next-season network optimization under uncertainty. 114 routes, 1,150 departures, 2,000 simulated seasons, validated decision engine.
 
 `Optimization` · `Forecasting` · `Simulation` · `Decision Intelligence`
 
@@ -104,5 +104,5 @@ DataPrepToolkit: **171 tests** · AutoEDA: **265 tests**
 ## Connect
 
 - **Portfolio** — [arasoul.dev](https://arasoul.dev)
-- **LinkedIn** — [ahmed-abdelrasoul-3271a917b](https://www.linkedin.com/in/ahmed-abdelrasoul-3271a917b)
-- **Email** — [Verify from portfolio](https://arasoul.dev)
+- **LinkedIn** — [ahmed-abdelrasoul-ai](https://www.linkedin.com/in/ahmed-abdelrasoul-ai)
+- **Email** — ahmedmrasoul@gmail.com
