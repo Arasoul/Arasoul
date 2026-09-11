@@ -100,14 +100,40 @@ I got tired of rewriting the same data workflow for every project. So I started 
 
 ## Tools I keep reaching for
 
+#### AI / Data
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&amp;perline=7" alt="AI and data tools: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions,ts,react,postgres&amp;perline=7" alt="Engineering tools: FastAPI, Docker, Git, GitHub Actions, TypeScript, React, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="./assets/tools/pandas.svg" alt="Pandas" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="./assets/tools/numpy.svg" alt="NumPy" width="45" height="45" style="vertical-align: middle;"/>
 </p>
 
-<p align="center"><sub>Build · Think · Train · Ship · Automate — n8n · APIs · SQL · Power BI</sub></p>
+#### Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" style="vertical-align: middle;"/>
+</p>
+
+#### Automation / Analytics
+
+<p align="center">
+  <img src="./assets/tools/n8n.svg" alt="n8n" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="./assets/tools/sql.svg" alt="SQL" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="./assets/tools/powerbi.svg" alt="Power BI" width="45" height="45" style="vertical-align: middle;"/>
+  <span style="font-family: monospace; font-size: 21px; font-weight: 700; color: #64748b; vertical-align: middle;">· APIs</span>
+</p>
+
+<p align="center"><sub>Build · Think · Train · Ship · Automate</sub></p>
 
 ---
 
